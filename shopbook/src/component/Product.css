@@ -1,0 +1,10 @@
+li {
+    list-style: none;
+  }
+  .main-product{
+      float: left;
+      position: relative;
+  }
+  .style1{
+float: left;
+  }
